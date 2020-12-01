@@ -1,3 +1,20 @@
+##################################################################################
+# Class: Colocations.py
+# Description: The class generates a co-location.csv file from a mobility   
+#              traces dataset
+# 
+# Created on 01/dec/2020
+# @author: Dimitri Belli             
+# License: GPLv3
+# Web: https://github.com/Lafcadio79/Locations_Colocations
+##################################################################################
+# This program is free software; you can redistribuite it and/or modify it under
+# the terms of the GNU/General Pubblic License as published the Free software
+# Foundation; either version 3 of the License, or (at your opinion) any later 
+# version
+##################################################################################
+
+
 # import libraries
 import numpy     as np
 import pandas    as pd
