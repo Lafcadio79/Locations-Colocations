@@ -134,7 +134,7 @@ class Colocation:
         Parameter
         ---------
         tw : int
-           the time window whihc provides the interval for slicing the 
+           the time window which provides the interval for slicing the 
            mobility traces dataframe (default 150s, i.e. 2.5 minutes)
         """
         
