@@ -244,7 +244,7 @@ class Colocation:
 
 # execute
 if __name__ == '__main__':
-    # the mobility traces' dataset (ParticipAct)
+    # the mobility traces' dataset
     obj = Colocation("input//test_dataset.csv")
     # anonymization of the data
     obj.users_mapping()
